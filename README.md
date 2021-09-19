@@ -12,7 +12,10 @@ Cyrix has been re-designed from the older version of Discord Music Bot to a newe
 a. Import Cyrix from [GitHub](https://github.com/RayZenYTBE/Discord-AdvancedMusicBot/)
 b. Change language to Node JS and make the run button as "npm start"
 c. Create new Secrets Environment Variables with this format below :
-`Key : TOKEN
+`Key : TOKEN & 
 Value : Your Bot Token`
 d. Type "npm i" on the console and let it install everything.
 e. Finally, Run the repl.
+
+## Credits
+Don't forget to credit us when you're using Cyrix's codes. 
