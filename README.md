@@ -17,5 +17,9 @@ Value : Your Bot Token`
 d. Type "npm i" on the console and let it install everything.
 e. Finally, Run the repl.
 
+# Links
+- [Our Website](https://sites.google.com/view/atmostfeardevelopersite)
+- [Host on Replit](https://replit.com/github/RayZenYTBE/RedFace)
+
 ## Credits
 Don't forget to credit us when you're using Cyrix's codes. 
