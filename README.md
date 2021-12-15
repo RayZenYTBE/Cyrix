@@ -19,7 +19,9 @@ e. Finally, Run the repl.
 
 # Links
 - [Our Website](https://sites.google.com/view/atmostfeardevelopersite)
+- [Support Server](https://discord.gg/6XSjbKBbJT)
 - [Host on Replit](https://replit.com/github/RayZenYTBE/Cyrix)
+- [Host On Glitch](https://glitch.com/edit/#!/import/git?url=https://github.com/RayZenYTBE/Cyrix)
 
 ## Credits
 Don't forget to credit us when you're using Cyrix's codes. 
